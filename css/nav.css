@@ -1,0 +1,31 @@
+nav{
+    display: flex;
+    width: 1500px;
+    height: 250px;
+    background-color: lightyellow;
+    border-radius: 35%;
+}
+
+img{
+    width: 100px;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+li{
+    list-style-type: none;
+    font-size: 20px;
+    color: brown;
+    flex-direction: row;
+    margin: 50px;
+    width: 150px;
+    height: 100px;
+    border-radius: 35%;
+    background-color: yellow;
+    text-align: center;
+    align-items: center;
+}
+
